@@ -1,2 +1,2 @@
-# Coursera_AngularJS
-Coursera AngularJS course
+# Module1_assign
+Module 1 assignment
